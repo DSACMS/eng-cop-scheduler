@@ -1,7 +1,7 @@
 # Engineering CoP Scheduler
 
 The schedule for the OHTP Engineering Community of Practice, at
-**https://dsacms.github.io/eng-cop/**. It shows what's on for each session and which dates still
+**https://dsacms.github.io/eng-cop-scheduler/**. It shows what's on for each session and which dates still
 need a speaker, and it lets people claim an open slot themselves.
 
 The meeting itself is a recurring Outlook series. This site doesn't create or manage calendar events.
