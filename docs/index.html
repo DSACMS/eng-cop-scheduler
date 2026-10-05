@@ -523,7 +523,7 @@ function renderHero() {
       <div class="live">
         <span class="dot" aria-hidden="true"><span class="ping"></span><span></span></span>
         <span class="live-label">Next session</span>
-        <span class="live-when">${when ? when + ' · ' : ''}${esc(shortDate(s.date))} · 60 min</span>
+        <span class="live-when">${when ? when + ' · ' : ''}<strong>${esc(shortDate(s.date))}</strong> · 60 min</span>
       </div>
     </div>
     <div class="hero-talks">${talks}</div>
